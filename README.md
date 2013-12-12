@@ -23,4 +23,4 @@ Then add it to app/assets/javascripts/application.js with:
 Thanks to [Yarp](http://yarp.com/) and [Ryan McGeary](http://ryan.mcgeary.org/)
 for releasing and maintaining the [timeago library](http://timeago.yarp.com/).
 
-Copyright [SugarCRM](http://sugarcrm.com), released under the MIT License.
+Copyright [SugarCRM Inc.](http://sugarcrm.com), released under the MIT License.
