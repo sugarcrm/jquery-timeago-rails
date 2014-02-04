@@ -18,9 +18,6 @@ Then add it to app/assets/javascripts/application.js with:
 //= require jquery.timeago
 ```
 
-features
-bundle exec rake -v ci:rspec
-
 ## Versioning
 
 jquery-timeago-rails 1.3.0 == jquery.timeago.js 1.3.0
