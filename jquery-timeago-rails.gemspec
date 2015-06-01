@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Andrew Sullivan Cant"]
   s.email       = ["acant@sugarcrm.com"]
   s.homepage    = "http://github.com/sugarcrm/jquery-timeago-rails"
-  s.summary     = "Use Timeago JQuery plugin with Rails."
-  s.description = "This gem provides the JQuery Timeago plug for your Rails application."
+  s.summary     = "Use Timeago JQuery plugin with Rails"
+  s.description = "This gem provides the JQuery Timeago plugin for your Rails application."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
