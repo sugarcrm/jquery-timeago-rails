@@ -1,4 +1,4 @@
-require "jquery-timeago-rails/version"
+require 'jquery-timeago-rails/version'
 
 module JqueryTimeagoRails
   class Engine < ::Rails::Engine
