@@ -38,4 +38,6 @@ The major, minor, and patch will always match the library. If a gem fix is neede
 Thanks to [Yarp](http://yarp.com/) and [Ryan McGeary](http://ryan.mcgeary.org/)
 for releasing and maintaining the [timeago library](http://timeago.yarp.com/).
 
+## License
+
 Copyright 2015 [SugarCRM Inc.](http://sugarcrm.com), released under the MIT License.
