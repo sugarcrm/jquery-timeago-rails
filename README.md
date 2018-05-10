@@ -1,4 +1,4 @@
-# jquery-timeago-rails
+# :no_entry: DEPRECATED jquery-timeago-rails
 
 [![Gem Version](https://badge.fury.io/rb/jquery-timeago-rails.svg)](http://badge.fury.io/rb/jquery-timeago-rails)
 [![Dependency Status](https://gemnasium.com/sugarcrm/jquery-timeago-rails.svg)](https://gemnasium.com/sugarcrm/jquery-timeago-rails)
@@ -9,6 +9,8 @@
 [![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](MIT-LICENSE)
 
 [Timeago JQuery plugin](http://timeago.yarp.com/) for Rails.
+
+Please be aware that this gem is deprecated and will no longer be maintained. There are other, better, options for including javascript libraries and other assets in Rails projects now. (e.g., [rails-assets](https://rails-assets.org/#/), [yarn](https://yarnpkg.com/en/), [webpack](https://webpack.js.org/))
 
 ## Installation
 
